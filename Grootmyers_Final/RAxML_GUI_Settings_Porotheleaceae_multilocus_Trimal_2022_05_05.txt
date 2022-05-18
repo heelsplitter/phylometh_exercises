@@ -1,0 +1,6 @@
+The analysis was run using raxmlGUI 2.0 (version 2.0.8) as follows:
+Analysis: ML + rapid bootstrap
+Binary: raxmlHPC-PTHREADS-SSE3.exe version 8.2.12
+Results saved to: C:\Users\Owner\Desktop\Hydropus_project\Sequences\Partition_finder\2022_04_28_2
+RAxML was called with these arguments:
+1.) -T 2 -f a -x 951180 -p 951180 -N 1000 -m GTRGAMMAI -O -o Typhula_sp_MO474304_PA -n Porotheleaceae_multilocus_Trimal_2022_05_05.tre -s "C:\Users\Owner\Desktop\EEB_587_Phylogenetic_Methods\phylometh_exercises\Final\Partition_Finder2\Porotheleaceae_multilocus_Trimal_2022_05_05.phy" -w "C:\Users\Owner\Desktop\Hydropus_project\Sequences\Partition_finder\2022_04_28_2" -q "C:\Users\Owner\Desktop\EEB_587_Phylogenetic_Methods\phylometh_exercises\Final\Partition_Finder2\Partitions.txt"
