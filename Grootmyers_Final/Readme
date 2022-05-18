@@ -1,0 +1,21 @@
+Grootmyers_Final_2022_05_18.R
+##This is my R script that will be submitted for the assignment.
+
+RAxML_bipartitions.Porotheleaceae_multilocus_Trimal_2022_05_05_EDIT2.tre
+##This is the tree file that will be used for the analysis.
+
+Tree_characters.csv
+##This is the spreadsheet containing spore traits.
+
+L_NEW.png
+##contMap output for spore length.
+
+W_NEW.png
+##contMap output for spore width.
+
+
+Q_NEW.png
+##contMap output for spore quotient.
+
+Amyloid_NEW.png
+##contMap output for amyloidity.
